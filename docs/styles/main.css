@@ -29,7 +29,7 @@ html {
   }
   
   .one {
-    font-size: 4rem;
+    font-size: 3.5rem;
   }
   
   .two {
@@ -70,7 +70,7 @@ html {
   }
   
   .five p {
-    font-size: 2rem;
+    font-size: 1.5rem;
     left: 0;
     position: absolute;
     right: 0;
